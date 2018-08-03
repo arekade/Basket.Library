@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace BasketLibrary
+namespace Basket
 {
     public class Class1
     {
